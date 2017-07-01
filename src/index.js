@@ -14,7 +14,7 @@ import Skills from './Skills/skills.js';
 ReactDOM.render(
 	<Router history={hashHistory}>
 		<Route path="/" component={App} >
-			<IndexRoute path="/" component={About} />
+			<Route path="/" component={About} />
 			<Route path="/" component={Contact} />
 			<Route path="/" component={Projects} />
 			<Route path="/" component={Skills} />
