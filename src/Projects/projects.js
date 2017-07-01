@@ -1,12 +1,36 @@
 import React, {Component} from 'react';
-import './projects.css';
-import {IndexLink, Link} from 'react-router';
+import '../App.css';
+import storyTranslate from '../img/storyTranslatemini.png';
+
 
 class Projects extends Component{
 	render(){
 		return(
-			<div>
-				<h2>This is the projects section</h2>
+			<div className="projects-wrapper">
+				<div className="col-sm-12 project1">
+					<div className="col-sm-6 screenshot">
+						<img src={storyTranslate} alt="" />
+					</div>
+					<div className="col-sm-6 description">
+						All about this wonderful wonderful project
+					</div>
+				</div>
+				<div className="col-sm-12 project1">
+					<div className="col-sm-6 description">
+						All about this wonderful wonderful project
+					</div>
+					<div className="col-sm-6 screenshot">
+						<img src={storyTranslate} alt="" />
+					</div>
+				</div>
+					<div className="col-sm-12 project1">
+					<div className="col-sm-6 screenshot">
+						<img src={storyTranslate} alt="" />
+					</div>
+					<div className="col-sm-6 description">
+						All about this wonderful wonderful project
+					</div>
+				</div>
 			</div>
 		)
 	}
