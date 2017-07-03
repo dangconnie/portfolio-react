@@ -6,10 +6,26 @@
   background-size: cover;
 } 
 
+
+/* Styles for About section */
+.about{
+	background-color: limegreen;
+}
+
 /* Styles for project screenshots */
 .screenshot img {
   max-height: 100vh;
-  max-width: 100vh;
+  max-width: 80vh;
   border: 10px solid red;
   padding: 1px;
+}
+
+/* Styles for skills section */
+.skills{
+	background-color: lightblue;
+}
+
+/* Styles for contact section */
+.contact{
+	background-color: purple;
 }

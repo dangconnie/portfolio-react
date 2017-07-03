@@ -5,7 +5,7 @@ import { IndexLink, Link } from 'react-router'
 class Contact extends Component{
 	render(){
 		return(
-			<div className="col-sm-12">
+			<div className="col-sm-12 contact">
 				<h2>This is contact section</h2>
 			</div>
 		)
