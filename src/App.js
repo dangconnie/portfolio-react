@@ -7,6 +7,7 @@ import Skills from './Skills/skills.js';
 import Nav from './Nav/navbar.js';
 import Home from './Home/home.js';
 
+
 class App extends Component {
 	render(){
 		return(

@@ -1,3 +1,10 @@
+body{
+  /* background-color: #f2ffe9; green from background pic*/
+  /* background-color: #96adca;   */
+  background-color: #CCDDE2;
+}
+
+
 /* Styles for home screen */
 .background img {
   background-image: url('img/booksReading.jpg');
@@ -7,28 +14,42 @@
 } 
 
 /* Styles for About section */
-.about{
-	background-color: limegreen;
-}
 hr{
-  border: 2px solid #eee;
+  border: 2px solid black;
 }
-/* Styles for project screenshots */
+
+
+
+/* Styles for Project section */
+.project1{
+  /* background-color: #f2ffe9; */
+}
 .screenshot img {
   max-height: 100vh;
   max-width: 80vh;
   padding: 1px;
 }
-
-/* Styles for skills section */
-.skills{
-	background-color: lightblue;
+.repoGithubLogo{
+  background-color: black;
+  color: white;
 }
 .eachSkill{
   border: 1px solid black;
+  padding: 10px;
+}
+.description{
+  padding-bottom: 80px;
+}
+
+
+/* Styles for Skills section */
+.skills{
+
 }
 
 /* Styles for contact section */
 .contact{
-	background-color: purple;
+	  background-color: #4e8092;
+ 
+
 }
