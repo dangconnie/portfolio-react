@@ -21,13 +21,13 @@ class Projects extends Component{
 						<Button href="http://dangconnie.com/new_story/#/login" target="__blank">Demo</Button>
 						<Button href="https://github.com/dangconnie/Story-Translate" target="__blank" className="repoGithubLogo"><FontAwesome name='github'size="lg"/> Repo</Button>
 						<hr />
-						<div className="eachSkill col-sm-4">HTML/CSS</div>
-						<div className="eachSkill col-sm-4">Sass/Materialize</div>
-						<div className="eachSkill col-sm-4">Javascript</div>
-						<div className="eachSkill col-sm-4">Angular</div>
-						<div className="eachSkill col-sm-4">jQuery</div>
-						<div className="eachSkill col-sm-4">Responsive Design</div>
-						<div className="eachSkill col-sm-4">Agile Development</div>
+						<div className="eachSkill">HTML/CSS</div>
+						<div className="eachSkill">Sass/Materialize</div>
+						<div className="eachSkill">Javascript</div>
+						<div className="eachSkill">Angular</div>
+						<div className="eachSkill">jQuery</div>
+						<div className="eachSkill">Responsive Design</div>
+						<div className="eachSkill">Agile Development</div>
 					</div>
 				</div>
 				<div className="col-sm-12 project1">
@@ -37,16 +37,16 @@ class Projects extends Component{
 						<Button href="http://dangconnie.com/upd8ed/#/" target="__blank">Demo</Button>
 						<Button href="https://github.com/mason0958/News-Aggregator" target="__blank" className="repoGithubLogo"><FontAwesome name='github'size="lg"/> Repo</Button>
 						<hr />
-						<div className="eachSkill col-sm-4">HTML/CSS</div>
-						<div className="eachSkill col-sm-4">Javascript</div>
-						<div className="eachSkill col-sm-4">React</div>
-						<div className="eachSkill col-sm-4">jQuery</div>
-						<div className="eachSkill col-sm-4">Node.js</div>
-						<div className="eachSkill col-sm-4">News API</div>
-						<div className="eachSkill col-sm-4">OpenWeatherMap API</div>
-						<div className="eachSkill col-sm-4">Yahoo! Finance API</div>
-						<div className="eachSkill col-sm-4">Responsive Design</div>
-						<div className="eachSkill col-sm-4">Agile Development</div>
+						<div className="eachSkill">HTML/CSS</div>
+						<div className="eachSkill">Javascript</div>
+						<div className="eachSkill">React</div>
+						<div className="eachSkill">jQuery</div>
+						<div className="eachSkill">Node.js</div>
+						<div className="eachSkill">News API</div>
+						<div className="eachSkill">OpenWeatherMap API</div>
+						<div className="eachSkill">Yahoo! Finance API</div>
+						<div className="eachSkill">Responsive Design</div>
+						<div className="eachSkill">Agile Development</div>
 					</div>
 					<div className="col-sm-6 screenshot">
 						<img src={upd8ed} alt="" />
@@ -62,11 +62,11 @@ class Projects extends Component{
 						<Button href="http://dangconnie.com/movie-app/" target="__blank">Demo</Button>
 						<Button href="https://github.com/dangconnie/movie-app" target="__blank" className="repoGithubLogo"><FontAwesome name='github'size="lg"/> Repo</Button>
 						<hr />
-						<div className="eachSkill col-sm-4">HTML/CSS</div>
-						<div className="eachSkill col-sm-4">Javascript</div>
-						<div className="eachSkill col-sm-4">jQuery</div>
-						<div className="eachSkill col-sm-4">Bootstrap</div>
-						<div className="eachSkill col-sm-4">The Movie Database API</div>
+						<div className="eachSkill">HTML/CSS</div>
+						<div className="eachSkill">Javascript</div>
+						<div className="eachSkill">jQuery</div>
+						<div className="eachSkill">Bootstrap</div>
+						<div className="eachSkill">The Movie Database API</div>
 					</div>
 				</div>
 			</div>
