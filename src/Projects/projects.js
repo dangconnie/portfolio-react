@@ -33,7 +33,7 @@ class Projects extends Component{
 				<div className="col-sm-12 project1">
 					<div className="col-sm-6 description">
 						<h2>Upd8ed</h2>
-						<p>Upd8ed is a news aggregator built in React as a frontend project. </p>
+						<p>Upd8ed is a news aggregator built in React as a frontend project. This app pulls the latest business, entertainment, global, sports news from a variety of sources for the viewer from different APIs. </p>
 						<Button href="http://dangconnie.com/upd8ed/#/" target="__blank">Demo</Button>
 						<Button href="https://github.com/mason0958/News-Aggregator" target="__blank" className="repoGithubLogo"><FontAwesome name='github'size="lg"/> Repo</Button>
 						<hr />
