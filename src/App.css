@@ -18,6 +18,13 @@ hr{
   border: 2px solid black;
 }
 
+.backgroundInfo{
+  text-align: center;
+}
+
+.webDevInfo{
+  text-align: center;
+}
 
 
 /* Styles for Project section */
