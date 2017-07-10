@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import './about.css';
 import { IndexLink, Link } from 'react-router'
 
 
@@ -14,7 +13,7 @@ class About extends Component{
 				</div>
 				<div className="col-sm-6 webDevInfo">
 					<h3>Web Development</h3>
-					<p>I'm an aspiring developer</p>
+					<p>I'm an aspiring developer. I want a chance to learn and improve my skills. I know I'm in the right field because the learning is neverending. </p>
 				</div>
 			</div>
 		)
