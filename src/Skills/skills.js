@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 // import './skills.css';
-import { IndexLink, Link } from 'react-router'
+// import { IndexLink, Link } from 'react-router'
 
 class Skills extends Component{
 	render(){
